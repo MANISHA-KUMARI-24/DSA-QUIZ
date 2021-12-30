@@ -1,6 +1,2 @@
 # DSA-QUIZ
-WBHJRCVERHNCER
-GNJNERCFER
-RE
-FVE
-RV
+https://manisha-kumari-24.github.io/DSA-QUIZ/
